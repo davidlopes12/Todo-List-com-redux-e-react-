@@ -1,0 +1,1 @@
+Este projeto consiste em uma lista de tarefas (todo list), onde o usuário pode se organizar. A aplicação permite marcar as tarefas como concluídas, movendo-as para a aba de tarefas completas ao serem marcadas, e também oferece a opção de remover tarefas. Cada etapa da lista de tarefas possui sua própria aba para melhor organização e gerenciamento.
